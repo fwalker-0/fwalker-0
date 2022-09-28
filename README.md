@@ -1,4 +1,4 @@
-### Olá! Sou o Felipe Walker 🤙
+Olá! Sou o Felipe Walker 
 
 <div align="center">
   <a href="https://github.com/fwalker-0">
